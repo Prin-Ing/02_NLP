@@ -1,0 +1,1 @@
+Word2Vec Skip-Gram 순수 JS 구현
